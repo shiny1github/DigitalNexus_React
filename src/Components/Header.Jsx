@@ -1,8 +1,18 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <nav>
+      <h1>Techy Web</h1>
+      <main >
+      <Link to={"/"}>Home</Link>
+        <Link to={"/contacts"}>Contacts</Link>
+        <Link to="/about">About</Link>
+        <Link to={"/#brands"}>Brands</Link>
+        <Link to={"/services"}>Services</Link>
+     </main>
+    </nav>
   )
 }
 
