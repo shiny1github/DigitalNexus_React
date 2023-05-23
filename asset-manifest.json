@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DigitalNexus_React/static/css/main.95119cec.css",
+    "main.js": "/DigitalNexus_React/static/js/main.66260c7c.js",
+    "static/media/BLOG_technology-in-education-2019.jpg": "/DigitalNexus_React/static/media/BLOG_technology-in-education-2019.6076d0686e1bc9105634.jpg",
+    "static/media/f2.jpg": "/DigitalNexus_React/static/media/f2.10acaade407405354a73.jpg",
+    "static/media/Innovation-Communications-Technology-2-1280x960.jpg": "/DigitalNexus_React/static/media/Innovation-Communications-Technology-2-1280x960.63081299d47fd3be38f7.jpg",
+    "index.html": "/DigitalNexus_React/index.html",
+    "main.95119cec.css.map": "/DigitalNexus_React/static/css/main.95119cec.css.map",
+    "main.66260c7c.js.map": "/DigitalNexus_React/static/js/main.66260c7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95119cec.css",
+    "static/js/main.66260c7c.js"
+  ]
+}
